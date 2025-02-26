@@ -5,8 +5,7 @@ This is a simple unit converter web application built using Streamlit. The appli
 ## Project Structure
 
 ```
-unit-converter-app
-├── src
+├── unit-converter-app 
 │   ├── main.py          # Entry point of the Streamlit application
 │   └── utils
 │       └── __init__.py  # Utility functions for unit conversion
@@ -40,7 +39,7 @@ To set up the project, follow these steps:
 To run the unit converter application, execute the following command:
 
 ```
-streamlit run src/main.py
+streamlit run main.py
 ```
 
 This will start the Streamlit server and open the application in your default web browser.
